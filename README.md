@@ -1,6 +1,7 @@
 # Proyecto final EDA
 
-![Captura de pantalla 2022-04-21 a las 12 50 49](https://user-images.githubusercontent.com/98879159/164443000-b4e94475-5f68-453a-a366-88453bc138c5.png)
+![Captura de pantalla 2022-04-21 a las 12 50 49](https://user-images.githubusercontent.com/98879159/164444525-a4364bcb-9ca9-4561-a9eb-af4587b0869b.png)
+
 
 Es un análisis exploratorio de datos sobre el paro tanto en la Comunidad de Madrid como en España.
 
